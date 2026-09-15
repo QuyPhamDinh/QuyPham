@@ -97,6 +97,11 @@ University of Science, Vietnam
 
 ## Projects
 
+### SOC / Alert Triage
+- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/thm-alert-triage">Alert Triage</a> 
+
+
+
 ### SOC / Detection & Incident Response
 - <a href="https://docs.google.com/document/d/1NgbkhIWLDrAJzl5Ooy7ZvtZ_qaVTYEaf/edit?usp=sharing&ouid=109351147789509412004&rtpof=true&sd=true">Incident Investigation Case Study</a> 
 
