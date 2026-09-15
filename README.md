@@ -105,3 +105,7 @@ University of Science, Vietnam
 ### SOC / Detection & Incident Response
 - <a href="https://docs.google.com/document/d/1NgbkhIWLDrAJzl5Ooy7ZvtZ_qaVTYEaf/edit?usp=sharing&ouid=109351147789509412004&rtpof=true&sd=true">Incident Investigation Case Study</a> 
 
+### Automation
+- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/python-automation">Automating Patch Management on Linux and Windows using Python</a>
+- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/powershell-automation">Active Directory User & Group Provisioning Script</a> 
+
