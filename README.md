@@ -7,10 +7,6 @@ I am a Senior Software Testing Engineer with 15+ years of experience in software
 Through hands-on labs and projects, I have developed practical experience with SIEM platforms, Windows and Linux security, network monitoring, log analysis, threat hunting, and incident response. I enjoy analyzing security events, investigating suspicious activity, and turning technical findings into clear, actionable recommendations.
 
 
-
-## Skills
-
-
 ## Skills
 
 - Security Alert Triage & Investigation
