@@ -100,10 +100,12 @@ University of Science, Vietnam
 ### SOC / Alert Triage
 - <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/thm-alert-triage">Alert Triage</a> 
 
-
-
 ### SOC / Detection & Incident Response
-- <a href="https://docs.google.com/document/d/1NgbkhIWLDrAJzl5Ooy7ZvtZ_qaVTYEaf/edit?usp=sharing&ouid=109351147789509412004&rtpof=true&sd=true">Incident Investigation Case Study</a> 
+- <a href="https://docs.google.com/document/d/1NgbkhIWLDrAJzl5Ooy7ZvtZ_qaVTYEaf/edit?usp=sharing&ouid=109351147789509412004&rtpof=true&sd=true">Incident Investigation Case Study</a>
+
+### Threat Hunting
+
+- [Threat Hunt Plan](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/05-threat-hunting)
 
 ### Automation
 - <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/python-automation">Automating Patch Management on Linux and Windows using Python</a>
