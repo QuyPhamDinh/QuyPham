@@ -93,6 +93,9 @@ University of Science, Vietnam
 
 ## Projects
 
+### SOC Detection Lab
+- [SOC Detection Lab](https://github.com/QuyPhamDinh/SOC_Lab)
+
 ### SOC / Alert Triage
 - <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/thm-alert-triage">Alert Triage</a> 
 
