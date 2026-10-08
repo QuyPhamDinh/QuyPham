@@ -89,24 +89,39 @@ University of Science, Vietnam
 * **RapidAscent** — Cybersecurity training
 * **TryHackMe** — Hands-on cybersecurity labs
 
-
-
 ## Projects
 
-### SOC Detection Lab
-- [SOC Detection Lab](https://github.com/QuyPhamDinh/SOC_Lab)
+### SIEM & Detection Engineering
 
-### SOC / Alert Triage
-- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/thm-alert-triage">Alert Triage</a> 
+**[Splunk SOC Detection Lab](https://github.com/QuyPhamDinh/SOC_Lab)**  
+Independently built the Windows/Linux logging pipeline within a group lab and documented four MITRE ATT&CK-mapped detections, dashboards, and triage playbooks.
 
-### SOC / Detection & Incident Response
-- <a href="https://docs.google.com/document/d/1NgbkhIWLDrAJzl5Ooy7ZvtZ_qaVTYEaf/edit?usp=sharing&ouid=109351147789509412004&rtpof=true&sd=true">Incident Investigation Case Study</a>
+**[Microsoft Sentinel SOC Lab](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/sentinel-lab)**  
+Configured Windows Security Event ingestion and a KQL analytics rule, then investigated an encoded PowerShell alert and classified the activity as an authorized lab test.
+
+### Alert Triage & Incident Investigation
+
+**[SOC Alert Triage — TryHackMe Simulator](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/thm-alert-triage)**  
+Investigated phishing, command-and-control, and DNS exfiltration alerts, documenting malicious activity and distinguishing it from benign Windows servicing behavior.
+
+**[Tempest — Attack Chain Investigation](https://github.com/QuyPhamDinh/SOC_Lab/blob/main/04-investigations/IncidentInvestigation_Tempest.docx.md)**  
+Correlated endpoint logs and packet captures to reconstruct a malicious-document attack chain, producing an evidence-based timeline, MITRE ATT&CK mapping, and response recommendations.
+
+**[Elastic Web-Attack Investigation](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/04-investigations/elastic-web-attack)**  
+Correlated five alerts across web, authentication, process, and account-management logs to identify a malicious sequence and document critical-priority escalation recommendations and evidence gaps.
+
+**[LSASS Credential-Dumping Investigation](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/04-investigations/T1003.001-lsass-credential-dumping-alert-triage)**  
+Investigated suspicious LSASS access using Sysmon and filesystem evidence, confirmed dump artifacts, and identified a file-creation logging gap requiring remediation.
 
 ### Threat Hunting
 
-- [Threat Hunt Plan](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/05-threat-hunting)
+**[Volt Typhoon — Intelligence-Driven Hunt Plan](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/05-threat-hunting)**  
+Developed a threat-hunting plan for a simulated enterprise, mapping four intelligence requirements to MITRE ATT&CK techniques, relevant assets, log sources, and investigation indicators.
 
-### Automation
-- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/python-automation">Automating Patch Management on Linux and Windows using Python</a>
-- <a href="https://github.com/QuyPhamDinh/SOC_Lab/tree/main/powershell-automation">Active Directory User & Group Provisioning Script</a> 
+### Security Automation
 
+**[Windows & Linux Patch Auditing — Python](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/python-automation)**  
+Built Python scripts to collect pending Linux updates and installed Windows hotfixes, generating timestamped reports for patch-status review.
+
+**[Active Directory User & Group Provisioning — PowerShell](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/powershell-automation)**  
+Built reusable PowerShell functions for individual and CSV-based AD provisioning, group creation, and membership assignment, with existence checks, secure password handling, and error handling.
