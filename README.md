@@ -125,3 +125,19 @@ Built Python scripts to collect pending Linux updates and installed Windows hotf
 
 **[Active Directory User & Group Provisioning — PowerShell](https://github.com/QuyPhamDinh/SOC_Lab/tree/main/powershell-automation)**  
 Built reusable PowerShell functions for individual and CSV-based AD provisioning, group creation, and membership assignment, with existence checks, secure password handling, and error handling.
+
+### Identity & Access Administration
+
+**[Active Directory Access Administration Lab](https://github.com/QuyPhamDinh/IAM_Lab/blob/main/AD_Access_Administration_Case_Study.md)**  
+Practiced employee onboarding, access troubleshooting, password reset and lockout support, role changes, and offboarding, documenting ticket-style scenarios and access-verification evidence.
+
+### Vulnerability & Risk Assessment
+
+**[SkyGuard Dynamics — Cybersecurity Risk Assessment]([REPORT_LINK_HERE](https://docs.google.com/document/d/1vK64Tx0V5Z9lrDagxGfM4esom2OpOPM4/edit?usp=drive_link&ouid=109351147789509412004&rtpof=true&sd=true))**  
+Analyzed supplied Nessus-style and OWASP ZAP findings, prioritized vulnerabilities by exposure and business impact, and developed remediation recommendations with control references and validation steps.
+
+
+### Linux Incident Investigation
+
+**[Linux Web Server Compromise Investigation](https://docs.google.com/document/d/1e7pCPYvkvag8I229ktJg4MS-x9imWiuv/edit)**  
+Investigated a Linux web-server compromise involving a PHP web shell, SUID privilege escalation, and unauthorized account and SSH-key persistence, reconstructing a timeline and documenting remediation recommendations.
